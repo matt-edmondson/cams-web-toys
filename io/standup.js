@@ -1,5 +1,5 @@
-const reactEmojis = require("./standupReacts.json");
-const awards = require("./standupAwards.json");
+import reactEmojis from "./standupReacts.json";
+import awards from "./standupAwards.json";
 
 let rooms = {};
 
