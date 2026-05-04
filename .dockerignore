@@ -1,0 +1,16 @@
+node_modules
+.nuxt
+.nitro
+.cache
+.output
+.env
+.env.*
+.git
+.github
+.vscode
+.idea
+deploy.sh
+deploy.bat
+README.md
+*.log
+.DS_Store
